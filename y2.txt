@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+dandanadan
+
+l
+=======
 changing the text file
+>>>>>>> a1a040653d75d33fee433d64dfc18f60f3a818a5
